@@ -8,7 +8,7 @@ Performing analysis on Kickstarter data
 
 ## Analysis and Challenges
 
-**-The challenge i faces was trying to do some analysis and on one pivot i was trying to make two charts and the filters were changing for both and then figure out have to insert another pivot table to fix it.
+-The challenge i faces was trying to do some analysis and on one pivot i was trying to make two charts and the filters were changing for both and then figure out have to insert another pivot table to fix it.
 Secondly, the COUNTIFS function i thought we dont have to edit the calculation you just copy till the bottom but not true, i watched hint video and was able to fix it.
 
 ### Analysis of Outcomes Based on Launch Date
@@ -19,14 +19,14 @@ Secondly, the COUNTIFS function i thought we dont have to edit the calculation y
 
 
 ### Challenges and Difficulties Encountered
-Only challenge is encountered is to understand different concept or insight that can be taken out of data
+-Only challenge is encountered is to understand different concept or insight that can be taken out of data
 
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-**-Holiday season (December) is the month where we saw maximum decline in terms of failed to the no of total outcomes
-**-In the month of May and June the successful outcomes increase.
-**- On Average 60% are succesful outcomes in lieu of toatal outcomes
+-Holiday season (December) is the month where we saw maximum decline in terms of failed to the no of total outcomes
+-In the month of May and June the successful outcomes increase.
+- On Average 60% are succesful outcomes in lieu of toatal outcomes
 
 ## Screenshot-1
 
@@ -42,7 +42,7 @@ Only challenge is encountered is to understand different concept or insight that
 ![Outcomes_vs_Goals](https://github.com/shivam0921/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 
 - What are some limitations of this dataset?
-Not a real world exampales. Data is made up.
+- Not a real world exampales. Data is made up.
 
 - What are some other possible tables and/or graphs that we could create?
 - Category / Sub-Category Statistics
