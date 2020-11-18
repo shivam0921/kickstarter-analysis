@@ -42,8 +42,11 @@ Secondly, the COUNTIFS function i thought we dont have to edit the calculation y
 ![Outcomes_vs_Goals](https://github.com/shivam0921/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 
 - What are some limitations of this dataset?
-  .Not a real world exampales. Data is made up.
+  
+  Not a real world exampales. Data is made up.
 
 - What are some other possible tables and/or graphs that we could create?
+  
   1.Category / Sub-Category Statistics
+  
   2.Maps based on the country 
