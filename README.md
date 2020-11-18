@@ -24,9 +24,9 @@ Secondly, the COUNTIFS function i thought we dont have to edit the calculation y
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
--Holiday season (December) is the month where we saw maximum decline in terms of failed to the no of total outcomes
--In the month of May and June the successful outcomes increase.
-- On Average 60% are succesful outcomes in lieu of toatal outcomes
+1.Holiday season (December) is the month where we saw maximum decline in terms of failed to the no of total outcomes
+2.In the month of May and June the successful outcomes increase.
+3.On Average 60% are succesful outcomes in lieu of toatal outcomes
 
 ## Screenshot-1
 
@@ -42,8 +42,8 @@ Secondly, the COUNTIFS function i thought we dont have to edit the calculation y
 ![Outcomes_vs_Goals](https://github.com/shivam0921/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 
 - What are some limitations of this dataset?
-- Not a real world exampales. Data is made up.
+  .Not a real world exampales. Data is made up.
 
 - What are some other possible tables and/or graphs that we could create?
-- Category / Sub-Category Statistics
-- Maps based on the country 
+  1.Category / Sub-Category Statistics
+  2.Maps based on the country 
