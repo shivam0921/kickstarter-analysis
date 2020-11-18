@@ -30,7 +30,7 @@ Only challenge is encountered is to understand different concept or insight that
 - On Average 60% are succesful outcomes in lieu of toatal outcomes
 
 ##screenshot
-![Theater_Outcomes_vs_Launch](C:\Users\Shivam Mittal\Desktop\Class Folder\resources/to/Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch](https://github.com/shivam0921/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 
 - What can you conclude about the Outcomes based on Goals?
 1. Less the goal amount more the succesful Outcomes
