@@ -28,12 +28,15 @@ Only challenge is encountered is to understand different concept or insight that
 -Holiday season (December) is the month where we saw maximum decline in terms of failed to the no of total outcomes
 -In the month of May and June the successful outcomes increase.
 - On Average 60% are succesful outcomes in lieu of toatal outcomes
+
 ##screenshot
 ![Theater_Outcomes_vs_Launch](C:\Users\Shivam Mittal\Desktop\Class Folder\resources/to/Theater_Outcomes_vs_Launch.png)
 
 - What can you conclude about the Outcomes based on Goals?
 1. Less the goal amount more the succesful Outcomes
 2. Goal of 10000 to 14999 is where the successful and Failed outcomes or even breakthrough
+
+##screenshot
 ![Outcomes_vs_Goals](C:\Users\Shivam Mittal\Desktop\Class Folder\resources/to/Outcomes_vs_Goals.png)
 - What are some limitations of this dataset?
 Not a real world exampales. Data is pretty stariaght forward
