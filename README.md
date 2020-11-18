@@ -28,7 +28,7 @@ Only challenge is encountered is to understand different concept or insight that
 **-In the month of May and June the successful outcomes increase.
 **- On Average 60% are succesful outcomes in lieu of toatal outcomes
 
-## screenshot
+## Screenshot-1
 
 ![Theater_Outcomes_vs_Launch](https://github.com/shivam0921/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 
@@ -37,12 +37,12 @@ Only challenge is encountered is to understand different concept or insight that
 1. Less the goal amount more the succesful Outcomes
 2. Goal of 10000 to 14999 is where the successful and Failed outcomes or even breakthrough
 
-## screenshot
+## Screenshot-2
 
 ![Outcomes_vs_Goals](https://github.com/shivam0921/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 
 - What are some limitations of this dataset?
-Not a real world exampales. Data is pretty stariaght forward
+Not a real world exampales. Data is made up.
 
 - What are some other possible tables and/or graphs that we could create?
 - Category / Sub-Category Statistics
